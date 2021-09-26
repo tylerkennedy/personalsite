@@ -28,7 +28,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 }
 
 .dark {
-  --theme: #161721;
+  --theme: #161721 !important;
   --entry: #2e2e33;
   --primary: rgba(255, 255, 255, 0.84);
   --secondary: rgba(255, 255, 255, 0.56);
