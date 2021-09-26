@@ -16,7 +16,7 @@ env = "production"
 title = "Tyler Kennedy"
 description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Tyler Kennedy"
+author = ""
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -55,11 +55,11 @@ tocopen = false
   imageTitle = "my image"
 
     [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    name = "Hire Me"
+    url = "/contact"
 
     [[params.profileMode.buttons]]
-    name = "Tags"
+    name = "Portfolio"
     url = "tags"
 
   [params.homeInfoParams]
@@ -80,7 +80,7 @@ tocopen = false
   hiddenInSingle = true
 
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
 weight = 10
