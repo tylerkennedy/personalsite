@@ -1,0 +1,12 @@
+a.brand {
+  font-weight: 700 !important;
+  font-size: 1.5em !important;
+}
+
+.navbar a.brand:hover, .footer a:hover {
+  background-color: initial !important;
+}
+
+.project > .flex {
+  min-width: 145px !important;
+}
