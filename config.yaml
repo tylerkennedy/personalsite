@@ -44,11 +44,11 @@ params:
   comments:
     enabled: false
 
-# menu:
-#   header:
-#     - name: Articles
-#       url: "/articles/"
-#       weight: 10
+menu:
+  header:
+    - name: About
+      url: "/about/"
+      weight: 10
 
 
 markup:
