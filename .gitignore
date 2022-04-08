@@ -191,3 +191,6 @@ dmypy.json
 cython_debug/
 
 public/
+
+*.icloud
+.icloud
